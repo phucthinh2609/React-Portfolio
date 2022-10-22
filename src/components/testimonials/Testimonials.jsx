@@ -24,18 +24,18 @@ const data = [
     role: "Hue Codegym Center Director",
     review: '"Originally a bachelor of Korean, with many job opportunities ahead. But with a passion for programming, Thinh came to CodeGym to realize his dream of becoming a programmer. He is a practitioner with a good mindset, responsibility at work, search skills, and independent working skills. Besides, he is also an active student who participates in extracurricular activities at CodeGym."'
   },
-  {
-    avatar: AVATAR2,
-    name: "Bui Cong Binh Minh",
-    role: "Hue Codegym Center Teacher",
-    review: '"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores pariatur nostrum a. Magni ut aut exercitationem, neque reiciendis eum placeat cum eius sunt, unde quaerat. Laborum ipsam a voluptatibus incidunt."'
-  },
-  {
-    avatar: AVATAR3,
-    name: "Tran Van Cu",
-    role: "Hue Codegym Center Teacher",
-    review: '"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores pariatur nostrum a. Magni ut aut exercitationem, neque reiciendis eum placeat cum eius sunt, unde quaerat. Laborum ipsam a voluptatibus incidunt."'
-  },
+  // {
+  //   avatar: AVATAR2,
+  //   name: "Bui Cong Binh Minh",
+  //   role: "Hue Codegym Center Teacher",
+  //   review: '"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores pariatur nostrum a. Magni ut aut exercitationem, neque reiciendis eum placeat cum eius sunt, unde quaerat. Laborum ipsam a voluptatibus incidunt."'
+  // },
+  // {
+  //   avatar: AVATAR3,
+  //   name: "Tran Van Cu",
+  //   role: "Hue Codegym Center Teacher",
+  //   review: '"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores pariatur nostrum a. Magni ut aut exercitationem, neque reiciendis eum placeat cum eius sunt, unde quaerat. Laborum ipsam a voluptatibus incidunt."'
+  // },
   {
     avatar: AVATAR4,
     name: "Dang Van Quang",
