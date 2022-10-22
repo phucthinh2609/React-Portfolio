@@ -53,7 +53,7 @@ const Services = () => {
       </div>
 
       <div className='container btn-link'>
-        <a href="https://drive.google.com/file/d/1k8Q-iJzo86EtfkyFUg-2rqEhMDOM4ASl/view" class="btn">Certificate Link</a>
+        <a target="_blank" href="https://drive.google.com/file/d/1k8Q-iJzo86EtfkyFUg-2rqEhMDOM4ASl/view" class="btn">Certificate Link</a>
       </div>
 
 
