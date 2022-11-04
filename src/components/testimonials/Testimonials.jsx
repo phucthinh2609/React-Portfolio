@@ -30,12 +30,12 @@ const data = [
   //   role: "Hue Codegym Center Teacher",
   //   review: '"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores pariatur nostrum a. Magni ut aut exercitationem, neque reiciendis eum placeat cum eius sunt, unde quaerat. Laborum ipsam a voluptatibus incidunt."'
   // },
-  // {
-  //   avatar: AVATAR3,
-  //   name: "Tran Van Cu",
-  //   role: "Hue Codegym Center Teacher",
-  //   review: '"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores pariatur nostrum a. Magni ut aut exercitationem, neque reiciendis eum placeat cum eius sunt, unde quaerat. Laborum ipsam a voluptatibus incidunt."'
-  // },
+  {
+    avatar: AVATAR3,
+    name: "Tran Van Cu",
+    role: "Hue Codegym Center Teacher",
+    review: '"Thinh is a man eager to thirst for learning. He tries hard to improve himself. He works planned, seriously, and carefully in his work."'
+  },
   {
     avatar: AVATAR4,
     name: "Dang Van Quang",
